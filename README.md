@@ -11,4 +11,4 @@ Use this repository to learn how to build and interpret:
   
   -K-means clustering to group data points with similar attributes
 
-This repository will provide you with a strong foundation in Data Science and how to build Machine Learning models using Python programming and popular Python libraries, such as: Pandas, Numpy, Sci-kit Learn, and Matplotlib. 
+This repository will provide you with a strong foundation in Data Science and how to build Machine Learning models using Python programming and popular Python libraries, such as: Pandas, Numpy, Sci-kit Learn, Matplotlib, and Seaborn. 
